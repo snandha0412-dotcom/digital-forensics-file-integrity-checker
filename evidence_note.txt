@@ -1,0 +1,4 @@
+Sample evidence note
+Case reference: DEMO-001
+This is fictional training data for testing file-integrity monitoring.
+Do not place private or real investigative evidence in this public repository.
